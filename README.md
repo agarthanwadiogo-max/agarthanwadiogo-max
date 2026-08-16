@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! 👋
+I'm an educator transitioning into the world of Information Technology
+I'm currently building my foundation in:
 
-<!--
-**agarthanwadiogo-max/agarthanwadiogo-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌐 Networking
+- 💻 IT Support
+- ☁️ Cloud Computing
+- 🔐 Cybersecurity
 
-Here are some ideas to get you started:
+## 📚 My Learning Journey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm documenting what I learn as I progress through my IT journey — including networking concepts, practical labs, troubleshooting exercises, and other technical projects.
+
+## 🎯 My Goal
+
+My goal is to develop practical IT skills and gradually build expertise in networking, cloud computing, and cybersecurity.
+
+## 🚀 Currently Learning
+
+- Networking fundamentals
+- Ethernet and TCP/IP
+- IP and MAC addressing
+- ARP, switching and routing
+- Cisco Packet Tracer
+- IT Support fundamentals
+- Cloud Computing
+- Cybersecurity
+
+Thanks for visiting my profile! 😊
+
+v
