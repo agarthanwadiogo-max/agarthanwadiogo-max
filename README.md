@@ -1,31 +1,20 @@
-# Hi there! 👋
-I'm an educator transitioning into the world of Information Technology
-I'm currently building my foundation in:
+# Hi, I'm Ugwuanyi Nwadiogo Agartha 👋
 
-- 🌐 Networking
-- 💻 IT Support
-- ☁️ Cloud Computing
-- 🔐 Cybersecurity
+I'm a health education graduate based in Enugu, Nigeria, transitioning into tech.
 
-## 📚 My Learning Journey
+## What I'm working on
+- Building practical IT skills
+- Growing into networking, cloud computing, and cybersecurity
+- Currently learning Customer Success Management
 
-I'm documenting what I learn as I progress through my IT journey — including networking concepts, practical labs, troubleshooting exercises, and other technical projects.
+## What I've learned
+- IT support and troubleshooting
+- Networking basics with Cisco Networking Academy
+- Cisco Packet Tracer (certified)
+- Computer training and office applications
 
-## 🎯 My Goal
+## Open to
+Remote and entry-level roles in IT support, customer support, and customer success.
 
-My goal is to develop practical IT skills and gradually build expertise in networking, cloud computing, and cybersecurity.
-
-## 🚀 Currently Learning
-
-- Networking fundamentals
-- Ethernet and TCP/IP
-- IP and MAC addressing
-- ARP, switching and routing
-- Cisco Packet Tracer
-- IT Support fundamentals
-- Cloud Computing
-- Cybersecurity
-
-Thanks for visiting my profile! 😊
-
-v
+## Contact
+agarthanwadiogo@gmail.com | LinkedIn: [add your link]
